@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Sevier Quality Property and Projects">
+  <rect width="64" height="64" rx="14" fill="#1c4535"/>
+  <path d="M10 36 32 15l22 21v15a2 2 0 0 1-2 2H38V38H26v15H12a2 2 0 0 1-2-2z" fill="#d98c2b"/>
+  <path d="M6 36.5 32 12l26 24.5" fill="none" stroke="#faf7f2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
